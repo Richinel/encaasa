@@ -4,11 +4,15 @@ var main = function() {
     });
 
     $(".direct_help").click(function(){
-        $(".pn_panel").fadeToggle(500);
+        $(".pn_panel").fadeToggle(175);
     });
 
-    $(".mb_button").click(function(){
-        $(".pn_panel").fadeToggle(500);
+    $(".ci_btn").click(function(){
+        $(".ci_panel").fadeToggle(175);
+    });
+
+    $(".dh_btn").click(function(){
+        $(".pn_panel").fadeToggle(175);
     });
 
 
@@ -19,16 +23,17 @@ var main = function() {
 
 
     $(".dh_help_footer").click(function(){
-        $(".pn_panel").fadeToggle(500);
+        $(".pn_panel").fadeToggle(175);
     });
 
     $(".sv_rm").click(function(){
-        $(".pn_panel2").fadeToggle(500);
+        $(".pn_panel2").fadeToggle(175);
     });
 
     $(".close").click(function(){
-        $(".pn_panel").fadeOut(500);
-        $(".pn_panel2").fadeOut(500);
+        $(".pn_panel").fadeOut(175);
+        $(".pn_panel2").fadeOut(175);
+        $(".ci_panel").fadeOut(175);
     });
 
     $.each($('div'), function(i, el){

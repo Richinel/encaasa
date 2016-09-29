@@ -14,15 +14,13 @@
 
 					<hr>
 
-					<div class="mb_button">
-						<i class="fa fa-info" aria-hidden="true"></i>
+					<button class="mb_button dh_btn">
 						<h4>Direct Hulp</h4>
-					</div>
+					</button>
 
-					<div class="mb_button2">
-						<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+					<button class="mb_button ci_btn">
 						<h4>Crisisinterventie</h4>
-					</div>
+					</button>
 				</div>
 			</column>
 			<column cols="6">

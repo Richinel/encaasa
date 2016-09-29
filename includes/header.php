@@ -54,5 +54,6 @@
     </div>
     <i class="fa fa-bars menu_btn" aria-hidden="true"></i>
 </div>
-
+<?php include("includes/dh_panel.php");?>
+<?php include("includes/ci.php");?>
 

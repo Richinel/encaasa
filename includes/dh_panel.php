@@ -10,7 +10,7 @@
 				<br>
 				Lees voor het invullen alle vragen eerst goed door en zorg dat u de benodigde informatie bij de hand heeft. De gegevens die u invult worden via een beveiligde verbinding aan Encaasa verstuurd en uitsluitend door ons gebruikt voor het beoordelen en behandelen van uw aanvraag.
 				<div class="btn-o">
-					<a href="./files/Intakeformulier-ENCAASA.pdf">
+					<a href="./files/Intakeformulier-ENCAASA.pdf" target="_blank">
 						<p>
 							<i class="fa fa-file-pdf-o pdf" aria-hidden="true"></i> 
 							Aanmeldformulier

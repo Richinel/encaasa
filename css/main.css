@@ -388,7 +388,7 @@ a {
   position: relative;
   left: 34px;
   top: 82px;
-  transition: 150ms ease-in;
+  transition: 75ms ease-in;
 }
 .main_banner .banner_wrapper .banner_content .phone .phone_body .phone_content .top_bar {
   position: relative;
@@ -539,8 +539,8 @@ a {
   color: white;
 }
 .main_banner .banner_wrapper .left_text {
-  text-align: center;
-  margin-top: 20px;
+  text-align: right;
+  margin-top: 70px;
 }
 .main_banner .banner_wrapper .left_text .mb_button,
 .main_banner .banner_wrapper .left_text .mb_button2 {
@@ -554,7 +554,7 @@ a {
   padding: 10px;
   text-align: center;
   border-radius: 2px;
-  transition: 150ms ease-in;
+  transition: 75ms ease-in;
   cursor: pointer;
 }
 .main_banner .banner_wrapper .left_text .mb_button i,
@@ -677,7 +677,8 @@ a {
 }
 .pn_panel,
 .pn_panel2,
-.pn_panel3 {
+.pn_panel3,
+.ci_panel {
   position: fixed;
   background-color: rgba(0, 0, 0, 0.85);
   top: 0;
@@ -692,19 +693,21 @@ a {
 }
 .pn_panel .pn_wrapper,
 .pn_panel2 .pn_wrapper,
-.pn_panel3 .pn_wrapper {
+.pn_panel3 .pn_wrapper,
+.ci_panel .pn_wrapper {
   max-width: 800px;
   width: 90%;
   margin: auto;
 }
 .pn_panel .pn_wrapper .panel_content,
 .pn_panel2 .pn_wrapper .panel_content,
-.pn_panel3 .pn_wrapper .panel_content {
+.pn_panel3 .pn_wrapper .panel_content,
+.ci_panel .pn_wrapper .panel_content {
   background-color: white;
   border-radius: 2px;
   box-shadow: 0 0 10px #cccccc;
   padding: 25px;
-  margin-top: 140px;
+  margin-top: 100px;
   margin-bottom: 140px;
   height: auto;
   position: relative;
@@ -712,12 +715,14 @@ a {
 }
 .pn_panel .pn_wrapper .panel_content h2,
 .pn_panel2 .pn_wrapper .panel_content h2,
-.pn_panel3 .pn_wrapper .panel_content h2 {
+.pn_panel3 .pn_wrapper .panel_content h2,
+.ci_panel .pn_wrapper .panel_content h2 {
   padding-bottom: 20px;
 }
 .pn_panel .pn_wrapper .panel_content .close,
 .pn_panel2 .pn_wrapper .panel_content .close,
-.pn_panel3 .pn_wrapper .panel_content .close {
+.pn_panel3 .pn_wrapper .panel_content .close,
+.ci_panel .pn_wrapper .panel_content .close {
   font-size: 25px;
   color: #8a4f0f;
   position: absolute;
@@ -729,28 +734,33 @@ a {
 }
 .pn_panel .pn_wrapper .panel_content .close:hover,
 .pn_panel2 .pn_wrapper .panel_content .close:hover,
-.pn_panel3 .pn_wrapper .panel_content .close:hover {
+.pn_panel3 .pn_wrapper .panel_content .close:hover,
+.ci_panel .pn_wrapper .panel_content .close:hover {
   opacity: 1.0;
 }
 .pn_panel .pn_wrapper .panel_content .btn-o,
 .pn_panel2 .pn_wrapper .panel_content .btn-o,
-.pn_panel3 .pn_wrapper .panel_content .btn-o {
+.pn_panel3 .pn_wrapper .panel_content .btn-o,
+.ci_panel .pn_wrapper .panel_content .btn-o {
   margin: 15px 0;
 }
 .pn_panel .pn_wrapper .panel_content a,
 .pn_panel2 .pn_wrapper .panel_content a,
-.pn_panel3 .pn_wrapper .panel_content a {
+.pn_panel3 .pn_wrapper .panel_content a,
+.ci_panel .pn_wrapper .panel_content a {
   text-decoration: none;
   color: #8a4f0f;
 }
 .pn_panel .pn_wrapper .panel_content a:hover,
 .pn_panel2 .pn_wrapper .panel_content a:hover,
-.pn_panel3 .pn_wrapper .panel_content a:hover {
+.pn_panel3 .pn_wrapper .panel_content a:hover,
+.ci_panel .pn_wrapper .panel_content a:hover {
   color: white;
 }
 .pn_panel .pn_wrapper .panel_content .pdf,
 .pn_panel2 .pn_wrapper .panel_content .pdf,
-.pn_panel3 .pn_wrapper .panel_content .pdf {
+.pn_panel3 .pn_wrapper .panel_content .pdf,
+.ci_panel .pn_wrapper .panel_content .pdf {
   position: relative;
   font-size: 20px;
   margin-right: 5px;
@@ -879,6 +889,12 @@ a {
   margin-right: 10px;
   position: absolute;
   right: 5px;
+}
+.bw .bw_wrapper #accordion ul {
+  text-align: left;
+}
+.bw .bw_wrapper #accordion ul li {
+  margin-left: 10%;
 }
 .bw .bw_wrapper #accordion p {
   width: 100%;
@@ -1100,6 +1116,9 @@ a {
   .contact .contact_wrapper #c_form {
     width: 100%;
   }
+  .left_text {
+    text-align: left !important;
+  }
   .panel_content {
     margin: 20px !important;
     margin-left: 6px !important;
@@ -1138,4 +1157,16 @@ a {
     -webkit-transform: scale(1.6, 1.6);
     opacity: 0.0;
   }
+}
+fieldset {
+  position: relative;
+}
+.fieldset_deco {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-size: 150px !important;
+  color: #fcf3e8;
+  opacity: 0.4;
+  transform: rotate(10deg);
 }

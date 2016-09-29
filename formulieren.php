@@ -12,34 +12,62 @@
 				Hier treft u alle formulieren die u kunt downloaden om in te vullen en vervolgens naar ons te sturen.
 				</p>
 
-				<h3>PDF-bestanden</h3>
+				<fieldset>
+					<legend>Formulieren (PDF)</legend>
 
-				<blocks cols="3">
-					<div class="form_item">
-						<p><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
-						<h4>Verzoek tot onderbewindstelling en/of mentorschap</h4>
-					</div>
+					<ul>
+						<li>
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							Verzoek tot onderbewindstelling en/of mentorschap
+						</li>
+						<li>
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							Verzoek extra geld
+						</li>
+						<li>
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							Aanmeldformulier
+						</li>
+						<li>
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							Werkwijze Encaasa
+						</li>
+						<li>
+							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+							Klachtenregelement
+						</li>
+					</ul>
+					<i class="fa fa-file-pdf-o fieldset_deco" aria-hidden="true"></i>
+				</fieldset>
 
-					<div class="form_item">
-						<p><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
-						<h4>Verzoek extra geld</h4>
-					</div>
+				<fieldset>
+					<legend>Formulieren (Word)</legend>
 
-					<div class="form_item">
-						<p><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
-						<h4>Aanmeldformulier</h4>
-					</div>
-
-					<div class="form_item">
-						<p><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
-						<h4>Werkwijze Encaasa</h4>
-					</div>
-
-					<div class="form_item">
-						<p><i class="fa fa-file-pdf-o" aria-hidden="true"></i></p>
-						<h4>Klachtenregelement</h4>
-					</div>
-				</blocks>
+					<ul>
+						<li>
+							<i class="fa fa-file-word-o" aria-hidden="true"></i>
+							Verzoek tot onderbewindstelling en/of mentorschap
+						</li>
+						<li>
+							<i class="fa fa-file-word-o" aria-hidden="true"></i>
+							Verzoek extra geld
+						</li>
+						<li>
+							<i class="fa fa-file-word-o" aria-hidden="true"></i>
+							Aanmeldformulier
+						</li>
+						<li>
+							<i class="fa fa-file-word-o" aria-hidden="true"></i>
+							Werkwijze Encaasa
+						</li>
+						<li>
+							<i class="fa fa-file-word-o" aria-hidden="true"></i>
+							Klachtenregelement
+						</li>
+					</ul>
+					<i class="fa fa-file-word-o fieldset_deco" aria-hidden="true"></i>
+				</fieldset>
+				
 			</div>
 		</div>
 	</div>

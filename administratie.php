@@ -3,6 +3,8 @@
 	include("includes/header.php");
 ?>
 
+
+
 	<div class="content2">
 		<div class="wrapper">
 			<h2 class="h2_pbottom">Encaasa Administratie</h2>

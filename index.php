@@ -10,8 +10,6 @@
 
 		<?php include("includes/services.php");?>
 
-		<?php include("includes/dh_panel.php");?>
-
 		<?php include("includes/direct_help.php");?>
 	</div>
 

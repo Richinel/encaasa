@@ -20,7 +20,11 @@
 
 				<hr>
 
-				<?php include("includes/faq.php");?>
+				<h3><center>FAQ</center></h3>
+				<div id="accordion" class="bw_box">
+
+					<?php include("../encaasa_git/controllers/faq.php");?>
+				</div>
 				
 			</div>
 		</div>
