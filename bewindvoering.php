@@ -23,7 +23,7 @@
 				<h3><center>FAQ</center></h3>
 				<div id="accordion" class="bw_box">
 
-					<?php include("../encaasa_git/controllers/faq.php");?>
+					<?php include("controllers/faq.php");?>
 				</div>
 				
 			</div>
