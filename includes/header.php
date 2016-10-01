@@ -11,10 +11,8 @@
     <link rel="stylesheet" href="css/main.less">
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/slicknav.css" />
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
-    <script src="js/jquery.slicknav.js"></script>
-    <link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+    <script src="./js/jquery-3.1.1.min.js"></script>
+    <script src="./js/jquery-ui.js"></script>
     <script type="text/javascript" src="js/functions.js"></script>
     <?php include("includes/favicon.php");?>
 </head>
