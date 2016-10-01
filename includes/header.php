@@ -24,29 +24,29 @@
     <div class="decorative_line"></div>
     <div class="nav">
     	<div class="nav_wrapper">
-            <a href="index.php"><img src="images/encaasa1.jpg"></a>
+            <a href="index"><img src="images/encaasa1.jpg"></a>
                 <ul id="navMenu">   
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li class="item">
-                        <a href="bewindvoering.php">
+                        <a href="bewindvoering">
                             Bewindvoering
                         </a>
                         <div class="submenu">
-                            <div class="submenu_item"><span><a class="a" href="budgetbeheer.php">Budgetbeheer</a></span></div>
+                            <div class="submenu_item"><span><a class="a" href="budgetbeheer">Budgetbeheer</a></span></div>
                         </div>
                     </li>
                     <li class="item">
-                        <a href="schuldhulpverlening.php">
+                        <a href="schuldhulpverlening">
                             Schuldhulpverlening
                         </a>
                         <div class="submenu">
-                            <div class="submenu_item"><span><a class="a" href="m_traject.php">Minnelijk Traject</a></span></div>
-                            <div class="submenu_item"><span><a class="a" href="wsnp.php">WSNP</a></span></div>
+                            <div class="submenu_item"><span><a class="a" href="m_traject">Minnelijk Traject</a></span></div>
+                            <div class="submenu_item"><span><a class="a" href="wsnp">WSNP</a></span></div>
                         </div>
                     </li>
-                    <li><a class="a" href="formulieren.php">Formulieren</a></li>
-                    <li><a class="a" href="administratie.php">Encaasa Administratie</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a class="a" href="formulieren">Formulieren</a></li>
+                    <li><a class="a" href="administratie">Encaasa Administratie</a></li>
+                    <li><a href="contact">Contact</a></li>
                 </ul>
         </div>
     </div>

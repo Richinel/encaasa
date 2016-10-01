@@ -17,7 +17,7 @@
 						</p>
 					</a>
 				</div>
-				Kunt u niet printen, vul dan <a href="contact.php">hier</a> uw gegevens in, dan sturen wij per post een aanmeldformulier naar u toe.
+				Kunt u niet printen, vul dan <a href="contact">hier</a> uw gegevens in, dan sturen wij per post een aanmeldformulier naar u toe.
 			</p>
 		</div>
 	</div>

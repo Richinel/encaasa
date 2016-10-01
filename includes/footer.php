@@ -6,11 +6,11 @@
 
 					<h4>Encaasa</h4>
 					<ul>
-						<li><a href="bewindvoering.php">Bewindvoering</a></li>
-						<li><a href="schuldhulpverlening.php">Schuldhulpverlening</a></li>
-						<li><a href="formulieren.php">Formulieren</a></li>
+						<li><a href="bewindvoering">Bewindvoering</a></li>
+						<li><a href="schuldhulpverlening">Schuldhulpverlening</a></li>
+						<li><a href="formulieren">Formulieren</a></li>
 						<li><a href="#">Encaasa Administratie</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li><a href="contact">Contact</a></li>
 					</ul>
 				</div>
 
