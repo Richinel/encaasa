@@ -1057,9 +1057,18 @@ a {
   text-decoration: underline;
 }
 .footer .footer_item .dh_help_footer {
-  font-weight: bold;
   color: #8a4f0f;
   cursor: pointer;
+}
+.footer .footer_item .dh_help_footer:hover {
+  text-decoration: underline;
+}
+.footer .footer_item .ci_footer {
+  color: #8a4f0f;
+  cursor: pointer;
+}
+.footer .footer_item .ci_footer:hover {
+  text-decoration: underline;
 }
 .footer .footer_item table td {
   padding: 0;

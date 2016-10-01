@@ -26,6 +26,10 @@ var main = function() {
         $(".pn_panel").fadeToggle(175);
     });
 
+    $(".ci_footer").click(function(){
+        $(".ci_panel").fadeToggle(175);
+    });
+
     $(".sv_rm").click(function(){
         $(".pn_panel2").fadeToggle(175);
     });

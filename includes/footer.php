@@ -19,7 +19,7 @@
 					<h4>Cliënten</h4>
 					<ul>
 						<li><span class="dh_help_footer">Direct Hulp</span></li>
-						<li>Crisisinterventie</li>
+						<li><span class="ci_footer">Crisisinterventie</span></li>
 						<li><a href="https://mijn.onview.nl/HTML/Login.aspx">Inloggen Cliënten</a></li>
 					</ul>
 				</div>
