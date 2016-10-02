@@ -1,5 +1,5 @@
 <?php
-	$title = "WSNP"; 
+	$title = "Administratie"; 
 	include("includes/header.php");
 ?>
 
