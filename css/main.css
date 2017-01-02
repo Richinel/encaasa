@@ -121,6 +121,7 @@ a {
   height: 150px;
   display: block;
   margin: auto;
+  margin-bottom: 30px;
 }
 .btn-o {
   display: block;
@@ -1011,6 +1012,7 @@ a {
 .fp {
   background-color: #fcf3e8;
   padding: 20px;
+  border: 1px solid #8a4f0f !important;
 }
 .footer {
   background-color: #f2f2f2;
@@ -1194,4 +1196,7 @@ fieldset {
   color: #fcf3e8;
   opacity: 0.4;
   transform: rotate(10deg);
+}
+.NA {
+  opacity: 0.6 !important;
 }

@@ -18,29 +18,39 @@
 					<ul>
 						<li>
 							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-							Verzoek tot onderbewindstelling en/of mentorschap
+								<a href="files/Bewindvoering-en-of-mentorschap.pdf" target="_blank">
+									Verzoek tot onderbewindstelling en/of mentorschap
+								</a>
 						</li>
 						<li>
 							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-							Verzoek extra geld
+								<a href="files/formulier-verzoek-extra-geld.pdf" target="_blank">
+									Verzoek extra geld
+								</a>
 						</li>
 						<li>
 							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-							Aanmeldformulier
+								<a href="files/Intakeformulier-ENCAASA.pdf" target="_blank">
+									Aanmeldformulier
+								</a>
 						</li>
 						<li>
 							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-							Werkwijze Encaasa
+								<a href="files/Reglement-Bew-Encaasa.pdf" target="_blank">
+									Werkwijze Encaasa
+								</a>
 						</li>
 						<li>
 							<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-							Klachtenregelement
+								<a href="files/klachtenregelement-Encaasa.pdf" target="_blank">
+									Klachtenregelement
+								</a>
 						</li>
 					</ul>
 					<i class="fa fa-file-pdf-o fieldset_deco" aria-hidden="true"></i>
 				</fieldset>
 
-				<fieldset>
+				<!-- <fieldset class='NA'>
 					<legend>Formulieren (Word)</legend>
 
 					<ul>
@@ -66,8 +76,7 @@
 						</li>
 					</ul>
 					<i class="fa fa-file-word-o fieldset_deco" aria-hidden="true"></i>
-				</fieldset>
-				
+				</fieldset>	 -->
 			</div>
 		</div>
 	</div>
