@@ -1,0 +1,19 @@
+Encaasa Bewindvoering
+
+-----------SFTP------------
+Server:		sftp://encaasabewindvoering.nl.transurl.nl
+Gebruikersnaam:	encaasabewindvoering.nl
+Wachtwoord:	Bxt3V6drGPt3
+
+
+---------DATABASE----------
+Server:		localhost
+Naam:		encaasabewindvoering_nl_encaasa
+Gebruikersnaam:	encaa_nl_encaasa
+Wachtwoord:	tqZURPgvdo7B
+
+
+--------PHPMYADMIN---------
+Server:		encaasabewindvoering.nl
+Gebruikersnaam:	encaa_nl_encaasa
+Wachtwoord:	tqZURPgcdo7B
