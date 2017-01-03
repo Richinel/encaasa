@@ -23,16 +23,16 @@
 			</p>
 
 			<form id="c_form">
-				<input type="text" name="name" placeholder="Voornaam + Achternaam">
+				<input type="text" name="name" placeholder="Voornaam + Achternaam" required>
 				<br>
 				<br>
-				<input type="text" name="email" placeholder="E-mailadres">
+				<input type="text" name="email" placeholder="E-mailadres" required>
 				<br>
 				<br>
-				<input type="text" name="subject" placeholder="Onderwerp">
+				<input type="text" name="subject" placeholder="Onderwerp" required>
 				<br>
 				<br>
-				<textarea placeholder="Uw bericht"></textarea>
+				<textarea placeholder="Uw bericht" required></textarea>
 				<br>
 				<br>
 				<button type="submit" name="submit" value="Verzenden"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Verzenden</button>

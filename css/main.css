@@ -767,12 +767,13 @@ a {
 .ci_panel .pn_wrapper .panel_content a {
   text-decoration: none;
   color: #8a4f0f;
+  font-weight: bold;
 }
 .pn_panel .pn_wrapper .panel_content a:hover,
 .pn_panel2 .pn_wrapper .panel_content a:hover,
 .pn_panel3 .pn_wrapper .panel_content a:hover,
 .ci_panel .pn_wrapper .panel_content a:hover {
-  color: white;
+  color: #b86914;
 }
 .pn_panel .pn_wrapper .panel_content .pdf,
 .pn_panel2 .pn_wrapper .panel_content .pdf,
