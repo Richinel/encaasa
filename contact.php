@@ -42,7 +42,6 @@
 					<br>
 				<div class="g-recaptcha" data-sitekey="6LcKhBAUAAAAAPwH5jso0Ujzx-UmmxutRvgetQmE"></div>
 					<br>
-					<br>
 				<button type="submit" name="submit" value="Verzenden"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> Verzenden</button>
 			</form>
 

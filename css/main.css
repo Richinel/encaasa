@@ -736,6 +736,18 @@ a {
 .ci_panel .pn_wrapper .panel_content h2 {
   padding-bottom: 20px;
 }
+.pn_panel .pn_wrapper .panel_content .form_fieldset,
+.pn_panel2 .pn_wrapper .panel_content .form_fieldset,
+.pn_panel3 .pn_wrapper .panel_content .form_fieldset,
+.ci_panel .pn_wrapper .panel_content .form_fieldset {
+  padding: 10px !important;
+}
+.pn_panel .pn_wrapper .panel_content .form_fieldset .first_h4,
+.pn_panel2 .pn_wrapper .panel_content .form_fieldset .first_h4,
+.pn_panel3 .pn_wrapper .panel_content .form_fieldset .first_h4,
+.ci_panel .pn_wrapper .panel_content .form_fieldset .first_h4 {
+  margin-top: -15px;
+}
 .pn_panel .pn_wrapper .panel_content .close,
 .pn_panel2 .pn_wrapper .panel_content .close,
 .pn_panel3 .pn_wrapper .panel_content .close,
@@ -773,7 +785,7 @@ a {
 .pn_panel2 .pn_wrapper .panel_content a:hover,
 .pn_panel3 .pn_wrapper .panel_content a:hover,
 .ci_panel .pn_wrapper .panel_content a:hover {
-  color: #b86914;
+  color: white;
 }
 .pn_panel .pn_wrapper .panel_content .pdf,
 .pn_panel2 .pn_wrapper .panel_content .pdf,

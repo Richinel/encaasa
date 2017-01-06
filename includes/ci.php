@@ -13,7 +13,7 @@
 				<br>
 				Kosten voor de crisisinterventie bedragen € 45,- per maand.
 				Er worden geen intakekosten gerekend.
-				Meld je direct aan of neem contact op!
+				<a href="https://mijn.onview.nl/HTML/Login.aspx">Meld je direct aan</a> of <a href="contact">neem contact op!</a>
 			</p>
 		</div>
 	</div>

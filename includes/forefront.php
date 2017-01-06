@@ -21,7 +21,7 @@
 			</column>
 		</row>
 
-		<a href="./encaasa.php">
+		<a href="encaasa.php">
 			<div class="btn-o">
 				Lees meer
 			</div>

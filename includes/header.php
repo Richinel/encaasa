@@ -3,17 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>
-        <?php echo $title; ?> | Home
+        <?php echo $title; ?> | Encaasa
     </title>
+
     <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+    <meta name="title" content="Encaasa Bewindvoering BV">
+    <meta name="author" content="RSD">
+    <meta name="keywords" content="bewindvoering, schuldhulpverlening, rotterdam, encaasa, beschermingsbewind, budgetbeheer, minnelijk traject, wsnp, administratie">
+
     <link rel="stylesheet" href="css/kube.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/main.less">
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/slicknav.css" />
+
     <script src="./js/jquery-3.1.1.min.js"></script>
     <script src="./js/jquery-ui.js"></script>
     <script type="text/javascript" src="js/functions.js"></script>
+
     <?php include("includes/favicon.php");?>
 </head>
 <body>
