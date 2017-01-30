@@ -11,6 +11,7 @@
 						<li><a href="formulieren">Formulieren</a></li>
 						<li><a href="#">Encaasa Administratie</a></li>
 						<li><a href="contact">Contact</a></li>
+						<li><a href="sitemap">Sitemap</a></li>
 					</ul>
 				</div>
 

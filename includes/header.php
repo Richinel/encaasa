@@ -33,7 +33,7 @@
     	<div class="nav_wrapper">
             <a href="index"><img src="images/encaasa1.jpg"></a>
                 <ul id="navMenu">   
-                    <li><a href="index">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="item">
                         <a href="bewindvoering">
                             Bewindvoering
